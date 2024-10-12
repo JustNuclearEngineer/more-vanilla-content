@@ -1,0 +1,12 @@
+name: "mvc"
+description: 
+''' 
+  A that make your gameplay become adventuring by adding more resource and more machinery for effiency. Does have music that override the vanilla music.
+  
+  Enjoy!
+'''
+author: "[white]Winter"
+minGameVersion: 146
+version: "1.4"
+displayName: "More Vanilla Content"
+subtitle: "Save Palestine!"
